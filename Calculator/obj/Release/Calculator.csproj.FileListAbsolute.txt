@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Calculator.dll.config
+c:\users\acer\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Calculator.dll
+c:\users\acer\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Calculator.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.dll
+c:\users\acer\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.pdb
